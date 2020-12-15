@@ -145,7 +145,7 @@ weight = 2
   [[Languages.de.menu.main]]
   parent = "Lehre"
   name = "Veranstaltungen"
-  URL = "about"
+  URL = "faq"
 
   [[Languages.de.menu.main]]
   parent = "Lehre"
