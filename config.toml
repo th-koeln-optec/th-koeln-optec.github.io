@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://thk-optec.de"
+baseURL = "https://thk-optec.de"
 title = "TH Köln Optec"
 theme = "airspace"
 # post pagination
