@@ -1,5 +1,12 @@
-_site
+Thumbs.db
+.DS_Store
+.dist
+.tmp
 .sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+npm-debug.log
+node_modules
+builds
+package-lock.json
+/public
+/.idea
+/resources
