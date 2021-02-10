@@ -7,21 +7,15 @@ draft: false
 bg_image: "images/featue-bg.jpg"
 ---
 
-### Welcome to Airspace!
+### Willkommen im Institut für optische Technologien
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Das Institute for Optical Technologies bietet Lehrveranstaltungen zu Pflicht- und Wahlpflichtmodulen aller Ingenieur-Studiengänge der Fakultät an. Zu den Beschreibungen gelangen Sie über die Navigationspunkten in der linken Spalte. Weitere Informationsquellen sind
 
-#### 1.Overview
+#### Elektrotechnik
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+Die Studierenden erwerben in diesem Modul die Fähigkeiten, elektrische und elektronische Netzwerke zu analysieren und zu entwickeln. Dazu wird zunächst die Vierpoltheorie vermittelt, die die Grundlage für die Beschreibung umfangreicher Netzwerke durch elementare Vierpole bildet.
+Im Weiteren werden Ausgleichsvorgänge sowohl über die Lösung von Differentialgleichungen als auch über die Lösung mit Hilfe der Laplace-Transformation betrachtet, die von den Studierenden selbstständig analysiert werden müssen. Mit Hilfe des Bildbereichs erwerben die Studierenden Kompetenz bei der Betrachtung von Übertragungsfunktionen. Insbesondere werden diese Kompetenzen auf den Gebiet der Stabilitätsbestimmung von rückgekoppelten System und deren Stabilitätsreserven erworben. Ferner sollen das Frequenz-, Sprung- und Impulsverhalten von Filtern vermittelt werden.
+Die einzelnen Themen werden durch Übungen und zum Teil durch praktische Laborversuche vertieft, in denen die Studierenden Methoden- und Messkompetenzen erwerben sollen.
 
 #### 2. Data We Collect
 
