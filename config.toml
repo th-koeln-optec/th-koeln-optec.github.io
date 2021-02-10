@@ -130,7 +130,7 @@ weight = 1
 copyright = ""
 
 
-######################### english navigation #############################
+######################### german navigation #############################
 # main menu
 [[Languages.de.menu.main]]
 name = "Optec"
@@ -139,47 +139,47 @@ weight = 1
 
 [[Languages.de.menu.main]]
 name = "Lehre"
-URL = "service"
+URL = "teaching"
 weight = 2
 
   [[Languages.de.menu.main]]
   parent = "Lehre"
   name = "Veranstaltungen"
-  URL = "faq"
+  URL = "teaching/lectures"
 
   [[Languages.de.menu.main]]
   parent = "Lehre"
   name = "Projektthemen"
-  URL = "project"
+  URL = "teaching/thesis-projects"
 
   [[Languages.de.menu.main]]
   parent = "Lehre"
   name = "Abschlussarbeiten"
-  URL = "author"
+  URL = "teaching/thesis-blog"
 
 [[Languages.de.menu.main]]
 name = "Forschung"
-URL = "service"
+URL = "research"
 weight = 3
 
   [[Languages.de.menu.main]]
   parent = "Forschung"
   name = "Labore"
-  URL = "about"
+  URL = "research/labs"
 
   [[Languages.de.menu.main]]
   parent = "Forschung"
   name = "Projekte"
-  URL = "project"
+  URL = "research/projects"
 
   [[Languages.de.menu.main]]
   parent = "Forschung"
   name = "Publikationen"
-  URL = "author"
+  URL = "research/publications"
 
 [[Languages.de.menu.main]]
 name = "Team"
-URL = "author"
+URL = "team"
 weight = 4
   
 [[Languages.de.menu.main]]
@@ -191,10 +191,10 @@ weight = 5
 # footer menu
 [[Languages.de.menu.footer]]
 name = "Impressum"
-URL = "faq"
+URL = "https://www.th-koeln.de/hochschule/impressum_8159.php"
 weight = 1
 
 [[Languages.de.menu.footer]]
 name = "Datenschutz"
-URL = "faq"
+URL = "https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php"
 weight = 2
