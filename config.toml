@@ -146,16 +146,19 @@ weight = 2
   parent = "Lehre"
   name = "Veranstaltungen"
   URL = "teaching/lectures"
+  weight = 1
 
   [[Languages.de.menu.main]]
   parent = "Lehre"
   name = "Projektthemen"
   URL = "teaching/thesis-projects"
+  weight = 2
 
   [[Languages.de.menu.main]]
   parent = "Lehre"
   name = "Abschlussarbeiten"
   URL = "teaching/thesis-blog"
+  weight = 3
 
 [[Languages.de.menu.main]]
 name = "Forschung"
@@ -164,18 +167,15 @@ weight = 3
 
   [[Languages.de.menu.main]]
   parent = "Forschung"
-  name = "Labore"
-  URL = "research/labs"
-
-  [[Languages.de.menu.main]]
-  parent = "Forschung"
-  name = "Projekte"
-  URL = "research/projects"
+  name = "Themen"
+  URL = "research/topics"
+  weight = 1
 
   [[Languages.de.menu.main]]
   parent = "Forschung"
   name = "Publikationen"
   URL = "research/publications"
+  weight = 2
 
 [[Languages.de.menu.main]]
 name = "Team"

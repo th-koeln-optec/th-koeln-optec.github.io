@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.png"
   bg_overlay : true
   title : "Optische Technologien an der Schnittstelle zwischen Physik und Elektronik"
-  content : "Wir beschäftigen uns mit Lasertechnik und Optoelektronik. Neben anderen interessanten Lehrveranstaltungen bieten wir das Pflichtfach Physik im ingenieurwissenschaftlichen Grundstudium an."
+  content : "Wir beschäftigen uns mit Lasertechnik und Optoelektronik. Neben anderen interessanten Lehrveranstaltungen bieten wir das Pflichtfach Physik im ingenieurwissenschaftlichen Grundstudium an.\n\nDiese Website befindet sich noch im Aufbau!\nWie auch immer Sie hier gelandet sind, Sie haben hier noch nichts zu suchen!"
   button:
     enable : false
     label : "Discover Our Project"
